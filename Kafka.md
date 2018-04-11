@@ -1,10 +1,15 @@
 # Kafka Commands
 
 ## How to download Kafka ?
-
+```
+Go to : https://www.apache.org/dyn/closer.cgi?path=/kafka/1.1.0/kafka_2.12-1.1.0.tgz
+```
+or
 ```
 curl "http://mirror.metrocast.net/apache/kafka/0.10.2.0/kafka_2.12-0.10.2.0.tgz" | tar xz
 ```
+
+
 
 ## How to start a zookeeper ?
 
